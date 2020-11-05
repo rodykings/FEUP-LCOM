@@ -1,0 +1,4 @@
+<map id="player_shot" name="player_shot">
+<area shape="rect" id="node2" href="$board_8c.html#a94c2c1ad303e2a5b6d5927acad3af174" title="Checks if a sprite has been placed inside the board matrix. " alt="" coords="143,5,297,32"/>
+<area shape="rect" id="node3" href="$board_8c.html#afca9c6d37276959ed0f884f28060a992" title="Sets the surrounding cells of a boat to &#45;7. " alt="" coords="153,56,287,83"/>
+</map>

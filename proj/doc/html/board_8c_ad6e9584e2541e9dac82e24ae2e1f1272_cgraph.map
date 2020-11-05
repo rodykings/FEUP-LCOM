@@ -1,0 +1,6 @@
+<map id="place_boat" name="place_boat">
+<area shape="rect" id="node2" href="$board_8c.html#a94c2c1ad303e2a5b6d5927acad3af174" title="Checks if a sprite has been placed inside the board matrix. " alt="" coords="148,5,303,32"/>
+<area shape="rect" id="node3" href="$board_8c.html#a3477a1d0ce52ed1ee03810f53bea8b68" title="Checks if the boat can be placed in the given postion of the matrix. " alt="" coords="149,56,302,83"/>
+<area shape="rect" id="node4" href="$board_8c.html#a5cc3d6d9b6f9475ba1cdc66468431694" title="Removes a boat from the board matrix. " alt="" coords="139,107,312,133"/>
+<area shape="rect" id="node5" href="$board_8c.html#a961d159f91ae9361f28e245e283df6ba" title="Increments (with &#45;1) the surrounding cells of a boat Blocked cells range from &#45;1 to &#45;4..." alt="" coords="154,157,297,184"/>
+</map>

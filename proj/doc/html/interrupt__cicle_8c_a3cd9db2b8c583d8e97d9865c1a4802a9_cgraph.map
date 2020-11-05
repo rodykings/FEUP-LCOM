@@ -1,0 +1,5 @@
+<map id="init_int_data" name="init_int_data">
+<area shape="rect" id="node2" href="$mouse_8c.html#a56a5da7f70edb0bb5db9910981ef65f9" title="Get packet struct. " alt="" coords="154,5,241,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a4a11876c724ae443363cf5971f1558e7" title="Empties a mouse packet. " alt="" coords="145,56,249,83"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#aabe32d3d3ebb9ccff7ca4b7992f48209" title="Get the scancode. " alt="" coords="146,107,249,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="block_adjacent_cells" name="block_adjacent_cells">
+<area shape="rect" id="node2" href="$board_8h.html#ad6e9584e2541e9dac82e24ae2e1f1272" title="Places a boat on the matrix using the sprite If the boat was previously placed on the matrix..." alt="" coords="196,5,281,32"/>
+<area shape="rect" id="node10" href="$board_8h.html#afaf03acbe2607c0c50212676083c1d1c" title="Places a boat on the matrix in a given position. " alt="" coords="329,56,447,83"/>
+<area shape="rect" id="node3" href="$state__machine_8h.html#aa5f2f1b1392cbe33e1401ee41fb7d3ba" title="State Machine used for dragging and droping boats Places boats on the board and updates the atributes..." alt="" coords="331,5,445,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a382ed7c0cb3201c13d4396ad9afc5a3e" title="Lets the player initialize the board unsign a graphical interface 10 boats must be positioned before ..." alt="" coords="519,5,636,32"/>
+<area shape="rect" id="node5" href="$game_8h.html#aff1f849979a9ca10d6ff2bce0dfb7fd5" title="Single Player Iniciates the boards from the respective players Starts the game loop (1 turn per playe..." alt="" coords="710,56,785,83"/>
+<area shape="rect" id="node9" href="$game_8h.html#a03f40ddf75045683b3f488d4839937ab" title="Multiplayer. " alt="" coords="708,5,787,32"/>
+<area shape="rect" id="node6" href="$menu_8h.html#a95c8dcba38d720d3e4bd6fcf9a8ee279" title="selects a menu option " alt="" coords="835,31,956,57"/>
+<area shape="rect" id="node7" href="$menu_8h.html#a6ed6ac9188a15c74b9d07d12b34397c0" title="Subscribes interruptions of the necessary modules Calls main menu and game functions. " alt="" coords="1004,31,1127,57"/>
+<area shape="rect" id="node8" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="proj_main_loop" alt="" coords="1175,31,1284,57"/>
+<area shape="rect" id="node11" href="$player_8h.html#ae1c4e7c7e4d00bca98a8edb0d179819f" title="Generates a random board with placed boats for the AI. " alt="" coords="495,56,660,83"/>
+</map>

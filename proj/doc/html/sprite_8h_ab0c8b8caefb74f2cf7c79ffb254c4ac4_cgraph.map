@@ -1,0 +1,5 @@
+<map id="draw_sprite" name="draw_sprite">
+<area shape="rect" id="node2" href="$graphic_8c.html#a461a83bf6ebfd3b6dc95ca3962858d3d" title="Copies the xmp into the video mem. " alt="" coords="143,5,225,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="get_bytes_per_pixel" alt="" coords="405,5,544,32"/>
+<area shape="rect" id="node4" href="$graphic_8c.html#a90228825151958bdc7dfaffdbbd88494" title="Calculates the color and sets the pixel in the video mem. " alt="" coords="273,31,357,57"/>
+</map>

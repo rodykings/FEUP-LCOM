@@ -1,0 +1,11 @@
+<map id="set_protected_cells" name="set_protected_cells">
+<area shape="rect" id="node2" href="$player_8h.html#a76c6479b507c3c9c25f6ee0ff216f07c" title="Recieves a player (plr_1) and determines if the shot against the enemy (plr_2) is valid..." alt="" coords="211,5,300,32"/>
+<area shape="rect" id="node9" href="$state__machine_8h.html#a003e7e4a061ada07023f893070d4bb2b" title="State Machine used for simulating a game strategy Generates a random position and then fires on that ..." alt="" coords="188,56,323,83"/>
+<area shape="rect" id="node3" href="$game_8h.html#aaeeee1282b90aa12468a1862c7871ee4" title="Lets the player fire against the enemy&#39;s boats using a graphical interface Shows previously hit cells..." alt="" coords="371,5,485,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#aff1f849979a9ca10d6ff2bce0dfb7fd5" title="Single Player Iniciates the boards from the respective players Starts the game loop (1 turn per playe..." alt="" coords="535,56,610,83"/>
+<area shape="rect" id="node8" href="$game_8h.html#a03f40ddf75045683b3f488d4839937ab" title="Multiplayer. " alt="" coords="533,5,612,32"/>
+<area shape="rect" id="node5" href="$menu_8h.html#a95c8dcba38d720d3e4bd6fcf9a8ee279" title="selects a menu option " alt="" coords="660,31,781,57"/>
+<area shape="rect" id="node6" href="$menu_8h.html#a6ed6ac9188a15c74b9d07d12b34397c0" title="Subscribes interruptions of the necessary modules Calls main menu and game functions. " alt="" coords="829,31,952,57"/>
+<area shape="rect" id="node7" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="proj_main_loop" alt="" coords="1000,31,1109,57"/>
+<area shape="rect" id="node10" href="$game_8h.html#afb1a61b5802eed643536ce45225d2000" title="Randomly fires upon player&#39;s boats using a state machine to simulate a strategy In case of a hit the ..." alt="" coords="373,56,483,83"/>
+</map>

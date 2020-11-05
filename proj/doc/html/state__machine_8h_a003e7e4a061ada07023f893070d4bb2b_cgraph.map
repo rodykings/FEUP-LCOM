@@ -1,0 +1,4 @@
+<map id="game_round_ai_sm" name="game_round_ai_sm">
+<area shape="rect" id="node2" href="$board_8c.html#a8067154f2f1e58f15220943de5571515" title="Receives a position and acerts what cell type has been hit. " alt="" coords="188,5,375,32"/>
+<area shape="rect" id="node3" href="$board_8c.html#afca9c6d37276959ed0f884f28060a992" title="Sets the surrounding cells of a boat to &#45;7. " alt="" coords="214,56,349,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="timer_interrupt_handler" name="timer_interrupt_handler">
+<area shape="rect" id="node2" href="$interrupt__cicle_8h.html#a0718d5c75848a080a2122df6548d2422" title="Receives and handles interruptions from the necessary modules. " alt="" coords="208,312,311,338"/>
+<area shape="rect" id="node3" href="$game_8h.html#a382ed7c0cb3201c13d4396ad9afc5a3e" title="Lets the player initialize the board unsign a graphical interface 10 boats must be positioned before ..." alt="" coords="636,286,753,313"/>
+<area shape="rect" id="node9" href="$game_8h.html#aaeeee1282b90aa12468a1862c7871ee4" title="Lets the player fire against the enemy&#39;s boats using a graphical interface Shows previously hit cells..." alt="" coords="637,185,752,212"/>
+<area shape="rect" id="node10" href="$game_8h.html#abdd70639378b19cfc929273ef7b4ff45" title="Uses timer interruptions to wait a predetermined time. " alt="" coords="359,134,433,161"/>
+<area shape="rect" id="node14" href="$menu_8h.html#a4cc4e9de5c448babdb711586dd12bec0" title="graphical interface for the main menu " alt="" coords="961,349,1016,376"/>
+<area shape="rect" id="node4" href="$game_8h.html#aff1f849979a9ca10d6ff2bce0dfb7fd5" title="Single Player Iniciates the boards from the respective players Starts the game loop (1 turn per playe..." alt="" coords="803,185,878,212"/>
+<area shape="rect" id="node8" href="$game_8h.html#a03f40ddf75045683b3f488d4839937ab" title="Multiplayer. " alt="" coords="801,236,880,262"/>
+<area shape="rect" id="node5" href="$menu_8h.html#a95c8dcba38d720d3e4bd6fcf9a8ee279" title="selects a menu option " alt="" coords="928,236,1049,262"/>
+<area shape="rect" id="node6" href="$menu_8h.html#a6ed6ac9188a15c74b9d07d12b34397c0" title="Subscribes interruptions of the necessary modules Calls main menu and game functions. " alt="" coords="1097,312,1220,338"/>
+<area shape="rect" id="node7" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="proj_main_loop" alt="" coords="1268,312,1377,338"/>
+<area shape="rect" id="node11" href="$game_8h.html#afb1a61b5802eed643536ce45225d2000" title="Randomly fires upon player&#39;s boats using a state machine to simulate a strategy In case of a hit the ..." alt="" coords="639,33,750,60"/>
+<area shape="rect" id="node12" href="$game_8h.html#a428e51196f5847d0e5e50822aa1c9716" title="displays the end game screen (lost) " alt="" coords="481,33,588,60"/>
+<area shape="rect" id="node13" href="$game_8h.html#a0ecf3df63f0053cd3177ad9dd3716b54" title="displays the end game screen (won) " alt="" coords="494,185,575,212"/>
+</map>

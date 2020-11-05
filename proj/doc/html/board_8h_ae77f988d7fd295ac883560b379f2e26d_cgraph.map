@@ -1,0 +1,4 @@
+<map id="load_boats" name="load_boats">
+<area shape="rect" id="node2" href="$boat_8c.html#a5841281c2167da2f3adcd0f7a1a48a1a" title="Creates a boat object. " alt="" coords="139,5,229,32"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#ab67f095900ba6092fed7f581886f28c6" title="create_sprite" alt="" coords="277,5,375,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="draw_xpm" name="draw_xpm">
+<area shape="rect" id="node2" href="$graphic_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="get_bytes_per_pixel" alt="" coords="268,5,407,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#a90228825151958bdc7dfaffdbbd88494" title="Calculates the color and sets the pixel in the video mem. " alt="" coords="136,31,220,57"/>
+</map>

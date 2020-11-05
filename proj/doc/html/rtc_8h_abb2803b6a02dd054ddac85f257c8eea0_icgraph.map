@@ -1,0 +1,6 @@
+<map id="BCDToDecimal" name="BCDToDecimal">
+<area shape="rect" id="node2" href="$rtc_8h.html#ab6c5efa2e1a2ccd5b2fab4d38affb268" title="Fetches the current hour from the rtc. " alt="" coords="180,5,255,32"/>
+<area shape="rect" id="node4" href="$rtc_8h.html#ab5851ee3c1998fc093f36bbd05e93e61" title="Fetches the current minute from rtc. " alt="" coords="171,56,264,83"/>
+<area shape="rect" id="node5" href="$rtc_8h.html#aee65d558e35348768d14ca3e0f31a2de" title="Fetches the current seconds from the rtc. " alt="" coords="168,107,267,133"/>
+<area shape="rect" id="node3" href="$rtc_8h.html#ae35b2a86937363ab4c837c3e43ecd10a" title="Debug function. " alt="" coords="315,56,391,83"/>
+</map>

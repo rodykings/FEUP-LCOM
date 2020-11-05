@@ -1,0 +1,6 @@
+<map id="draw_destroyed_boats" name="draw_destroyed_boats">
+<area shape="rect" id="node2" href="$sprite_8c.html#ab0c8b8caefb74f2cf7c79ffb254c4ac4" title="Shows the sprite. " alt="" coords="207,5,296,32"/>
+<area shape="rect" id="node3" href="$graphic_8c.html#a461a83bf6ebfd3b6dc95ca3962858d3d" title="Copies the xmp into the video mem. " alt="" coords="344,5,427,32"/>
+<area shape="rect" id="node4" href="$graphic_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="get_bytes_per_pixel" alt="" coords="607,5,745,32"/>
+<area shape="rect" id="node5" href="$graphic_8c.html#a90228825151958bdc7dfaffdbbd88494" title="Calculates the color and sets the pixel in the video mem. " alt="" coords="475,31,559,57"/>
+</map>

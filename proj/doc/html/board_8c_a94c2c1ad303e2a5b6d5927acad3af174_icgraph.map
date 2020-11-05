@@ -1,0 +1,12 @@
+<map id="check_matrix_collision" name="check_matrix_collision">
+<area shape="rect" id="node2" href="$board_8h.html#ad6e9584e2541e9dac82e24ae2e1f1272" title="Places a boat on the matrix using the sprite If the boat was previously placed on the matrix..." alt="" coords="210,5,295,32"/>
+<area shape="rect" id="node10" href="$player_8h.html#a76c6479b507c3c9c25f6ee0ff216f07c" title="Recieves a player (plr_1) and determines if the shot against the enemy (plr_2) is valid..." alt="" coords="208,56,297,83"/>
+<area shape="rect" id="node3" href="$state__machine_8h.html#aa5f2f1b1392cbe33e1401ee41fb7d3ba" title="State Machine used for dragging and droping boats Places boats on the board and updates the atributes..." alt="" coords="345,5,460,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#a382ed7c0cb3201c13d4396ad9afc5a3e" title="Lets the player initialize the board unsign a graphical interface 10 boats must be positioned before ..." alt="" coords="508,5,625,32"/>
+<area shape="rect" id="node5" href="$game_8h.html#aff1f849979a9ca10d6ff2bce0dfb7fd5" title="Single Player Iniciates the boards from the respective players Starts the game loop (1 turn per playe..." alt="" coords="675,5,750,32"/>
+<area shape="rect" id="node9" href="$game_8h.html#a03f40ddf75045683b3f488d4839937ab" title="Multiplayer. " alt="" coords="673,56,752,83"/>
+<area shape="rect" id="node6" href="$menu_8h.html#a95c8dcba38d720d3e4bd6fcf9a8ee279" title="selects a menu option " alt="" coords="800,31,921,57"/>
+<area shape="rect" id="node7" href="$menu_8h.html#a6ed6ac9188a15c74b9d07d12b34397c0" title="Subscribes interruptions of the necessary modules Calls main menu and game functions. " alt="" coords="969,31,1092,57"/>
+<area shape="rect" id="node8" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="proj_main_loop" alt="" coords="1140,31,1249,57"/>
+<area shape="rect" id="node11" href="$game_8h.html#aaeeee1282b90aa12468a1862c7871ee4" title="Lets the player fire against the enemy&#39;s boats using a graphical interface Shows previously hit cells..." alt="" coords="509,56,624,83"/>
+</map>

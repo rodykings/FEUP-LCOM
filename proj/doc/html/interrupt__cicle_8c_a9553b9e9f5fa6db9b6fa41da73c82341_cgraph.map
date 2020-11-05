@@ -1,0 +1,6 @@
+<map id="enable_components" name="enable_components">
+<area shape="rect" id="node2" href="$mouse_8c.html#a931e47d5ee56f248d36a9295f8931f4b" title="Subscribe mouse interrupts. " alt="" coords="203,5,349,32"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#ae64607ecf7a2d4dbb979e73a83f0a889" title="Subscribe keyboard interruptions. " alt="" coords="213,56,339,83"/>
+<area shape="rect" id="node5" href="$timer_8c.html#a3d5b56575044727856b57a7d5ea6f7f4" title="Subscribes timer interruptions. " alt="" coords="192,107,360,133"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#adbcbd37b59e476b1872dc37801bc4f15" title="Sends a command to the STAT_REG. " alt="" coords="408,5,533,32"/>
+</map>

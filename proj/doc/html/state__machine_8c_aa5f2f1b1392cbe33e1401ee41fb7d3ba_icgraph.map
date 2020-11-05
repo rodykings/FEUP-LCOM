@@ -1,0 +1,8 @@
+<map id="select_boat_sm" name="select_boat_sm">
+<area shape="rect" id="node2" href="$game_8h.html#a382ed7c0cb3201c13d4396ad9afc5a3e" title="Lets the player initialize the board unsign a graphical interface 10 boats must be positioned before ..." alt="" coords="168,31,285,57"/>
+<area shape="rect" id="node3" href="$game_8h.html#aff1f849979a9ca10d6ff2bce0dfb7fd5" title="Single Player Iniciates the boards from the respective players Starts the game loop (1 turn per playe..." alt="" coords="335,5,410,32"/>
+<area shape="rect" id="node7" href="$game_8h.html#a03f40ddf75045683b3f488d4839937ab" title="Multiplayer. " alt="" coords="333,56,412,83"/>
+<area shape="rect" id="node4" href="$menu_8h.html#a95c8dcba38d720d3e4bd6fcf9a8ee279" title="selects a menu option " alt="" coords="460,31,581,57"/>
+<area shape="rect" id="node5" href="$menu_8h.html#a6ed6ac9188a15c74b9d07d12b34397c0" title="Subscribes interruptions of the necessary modules Calls main menu and game functions. " alt="" coords="629,31,752,57"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="proj_main_loop" alt="" coords="800,31,909,57"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="interrupt_cicle" name="interrupt_cicle">
+<area shape="rect" id="node2" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse IH. " alt="" coords="194,5,273,32"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a4f0a0dc9001ebefef3a416dd9b882b97" title="Initiates the mouse packet member. " alt="" coords="191,56,276,83"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a2ce59763196c5a8a030a47599b6a160e" title="Get the cnt bytes. " alt="" coords="181,107,285,133"/>
+<area shape="rect" id="node6" href="$kbd_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard IH. " alt="" coords="203,157,263,184"/>
+<area shape="rect" id="node7" href="$timer_8c.html#ac7c3715c83c45c6411f9f3f9f6cf8c7f" title="Timer IH. " alt="" coords="156,208,311,235"/>
+<area shape="rect" id="node8" href="$interrupt__cicle_8c.html#a3cd9db2b8c583d8e97d9865c1a4802a9" title="Initializes the interrupt_data struct tot be used in other files. " alt="" coords="187,259,279,285"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a4a11876c724ae443363cf5971f1558e7" title="Empties a mouse packet. " alt="" coords="359,95,463,121"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#a56a5da7f70edb0bb5db9910981ef65f9" title="Get packet struct. " alt="" coords="367,233,454,260"/>
+<area shape="rect" id="node10" href="$kbd_8c.html#aabe32d3d3ebb9ccff7ca4b7992f48209" title="Get the scancode. " alt="" coords="359,284,462,311"/>
+</map>

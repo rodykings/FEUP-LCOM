@@ -1,0 +1,51 @@
+<map id="select_menu_opt" name="select_menu_opt">
+<area shape="rect" id="node2" href="$game_8c.html#aff1f849979a9ca10d6ff2bce0dfb7fd5" title="Single Player Iniciates the boards from the respective players Starts the game loop (1 turn per playe..." alt="" coords="177,1256,251,1283"/>
+<area shape="rect" id="node50" href="$game_8c.html#a03f40ddf75045683b3f488d4839937ab" title="Multiplayer. " alt="" coords="175,1307,253,1333"/>
+<area shape="rect" id="node3" href="$player_8c.html#ae5667617b46fe0f16724a0deb73f98e3" title="Create a Player object. " alt="" coords="313,1433,407,1460"/>
+<area shape="rect" id="node7" href="$sprite_8c.html#ab67f095900ba6092fed7f581886f28c6" title="create_sprite" alt="" coords="953,1509,1050,1536"/>
+<area shape="rect" id="node8" href="$game_8c.html#a382ed7c0cb3201c13d4396ad9afc5a3e" title="Lets the player initialize the board unsign a graphical interface 10 boats must be positioned before ..." alt="" coords="301,1205,419,1232"/>
+<area shape="rect" id="node34" href="$board_8c.html#a54e2a3fa8d35907d5606f6a39afa337d" title="Prints a matrix (debug) " alt="" coords="322,1383,398,1409"/>
+<area shape="rect" id="node35" href="$player_8c.html#ae1c4e7c7e4d00bca98a8edb0d179819f" title="Generates a random board with placed boats for the AI. " alt="" coords="467,1053,632,1080"/>
+<area shape="rect" id="node37" href="$board_8c.html#a8b6a92e6e1f0f8e6dedc26bceb048312" title="Loads the objects used for representing water, fire and protected cells. " alt="" coords="313,1484,407,1511"/>
+<area shape="rect" id="node38" href="$game_8c.html#aaeeee1282b90aa12468a1862c7871ee4" title="Lets the player fire against the enemy&#39;s boats using a graphical interface Shows previously hit cells..." alt="" coords="303,749,417,776"/>
+<area shape="rect" id="node44" href="$game_8c.html#abdd70639378b19cfc929273ef7b4ff45" title="Uses timer interruptions to wait a predetermined time. " alt="" coords="736,597,811,624"/>
+<area shape="rect" id="node46" href="$game_8c.html#a7f83392e415ad3fbf7b4d605a31fb511" title="Randomly fires upon player&#39;s boats using a state machine to simulate a strategy In case of a hit the ..." alt="" coords="305,344,415,371"/>
+<area shape="rect" id="node4" href="$board_8c.html#af28e24029a4c5b42c9e7474dcb520e37" title="Create a board object. " alt="" coords="501,1535,598,1561"/>
+<area shape="rect" id="node5" href="$board_8c.html#ae77f988d7fd295ac883560b379f2e26d" title="Creates boat objects and loads them into an array. " alt="" coords="507,1484,592,1511"/>
+<area shape="rect" id="node6" href="$boat_8c.html#a5841281c2167da2f3adcd0f7a1a48a1a" title="Creates a boat object. " alt="" coords="728,1509,819,1536"/>
+<area shape="rect" id="node9" href="$interrupt__cicle_8c.html#a0718d5c75848a080a2122df6548d2422" title="Receives and handles interruptions from the necessary modules. " alt="" coords="950,777,1053,804"/>
+<area shape="rect" id="node18" href="$interrupt__cicle_8c.html#ae96d62d9643ecb59a9a8a7828dfc1860" title="get_int_data" alt="" coords="955,1129,1048,1156"/>
+<area shape="rect" id="node19" href="$board_8c.html#a381a21388b9cb70e9bfaf870ac1f7130" title="Iterates over a boat array and shows the boats. " alt="" coords="505,243,594,269"/>
+<area shape="rect" id="node20" href="$sprite_8c.html#ab0c8b8caefb74f2cf7c79ffb254c4ac4" title="Shows the sprite. " alt="" coords="729,268,818,295"/>
+<area shape="rect" id="node24" href="$graphic_8c.html#a541e181cdbfecf6110d4d4c3ee087c30" title="get_video_mem" alt="" coords="716,648,831,675"/>
+<area shape="rect" id="node25" href="$state__machine_8c.html#aa5f2f1b1392cbe33e1401ee41fb7d3ba" title="State Machine used for dragging and droping boats Places boats on the board and updates the atributes..." alt="" coords="492,1104,607,1131"/>
+<area shape="rect" id="node27" href="$sprite_8c.html#a999c54879ed9502affbd8d65ecfd1b83" title="Checks sprite collision between two sprites. " alt="" coords="926,1332,1077,1359"/>
+<area shape="rect" id="node10" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse IH. " alt="" coords="1174,676,1253,703"/>
+<area shape="rect" id="node12" href="$mouse_8c.html#a4f0a0dc9001ebefef3a416dd9b882b97" title="Initiates the mouse packet member. " alt="" coords="1171,777,1256,804"/>
+<area shape="rect" id="node13" href="$mouse_8c.html#a2ce59763196c5a8a030a47599b6a160e" title="Get the cnt bytes. " alt="" coords="1161,828,1265,855"/>
+<area shape="rect" id="node14" href="$kbd_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard IH. " alt="" coords="1183,879,1243,905"/>
+<area shape="rect" id="node15" href="$timer_8c.html#ac7c3715c83c45c6411f9f3f9f6cf8c7f" title="Timer IH. " alt="" coords="1136,929,1291,956"/>
+<area shape="rect" id="node16" href="$interrupt__cicle_8c.html#a3cd9db2b8c583d8e97d9865c1a4802a9" title="Initializes the interrupt_data struct tot be used in other files. " alt="" coords="1167,727,1259,753"/>
+<area shape="rect" id="node11" href="$mouse_8c.html#a4a11876c724ae443363cf5971f1558e7" title="Empties a mouse packet. " alt="" coords="1356,701,1460,728"/>
+<area shape="rect" id="node17" href="$kbd_8c.html#aabe32d3d3ebb9ccff7ca4b7992f48209" title="Get the scancode. " alt="" coords="1357,1017,1459,1044"/>
+<area shape="rect" id="node21" href="$graphic_8c.html#a461a83bf6ebfd3b6dc95ca3962858d3d" title="Copies the xmp into the video mem. " alt="" coords="960,344,1043,371"/>
+<area shape="rect" id="node22" href="$graphic_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="get_bytes_per_pixel" alt="" coords="1339,344,1477,371"/>
+<area shape="rect" id="node23" href="$graphic_8c.html#a90228825151958bdc7dfaffdbbd88494" title="Calculates the color and sets the pixel in the video mem. " alt="" coords="1171,319,1255,345"/>
+<area shape="rect" id="node26" href="$board_8c.html#a1e9f126ea93fb3c584c5088151988bef" title="Acerts wich boat has been selected. " alt="" coords="696,1307,851,1333"/>
+<area shape="rect" id="node28" href="$boat_8c.html#a52cf7f134f8345da0318d72d997063d3" title="Rotates a boat. " alt="" coords="730,952,817,979"/>
+<area shape="rect" id="node29" href="$board_8c.html#ad6e9584e2541e9dac82e24ae2e1f1272" title="Places a boat on the matrix using the sprite If the boat was previously placed on the matrix..." alt="" coords="731,1003,816,1029"/>
+<area shape="rect" id="node32" href="$board_8c.html#a5cc3d6d9b6f9475ba1cdc66468431694" title="Removes a boat from the board matrix. " alt="" coords="915,1027,1088,1053"/>
+<area shape="rect" id="node30" href="$board_8c.html#a94c2c1ad303e2a5b6d5927acad3af174" title="Checks if a sprite has been placed inside the board matrix. " alt="" coords="924,831,1079,857"/>
+<area shape="rect" id="node31" href="$board_8c.html#a3477a1d0ce52ed1ee03810f53bea8b68" title="Checks if the boat can be placed in the given postion of the matrix. " alt="" coords="925,888,1078,915"/>
+<area shape="rect" id="node33" href="$board_8c.html#a961d159f91ae9361f28e245e283df6ba" title="Increments (with &#45;1) the surrounding cells of a boat Blocked cells range from &#45;1 to &#45;4..." alt="" coords="930,951,1073,977"/>
+<area shape="rect" id="node36" href="$board_8c.html#afaf03acbe2607c0c50212676083c1d1c" title="Places a boat on the matrix in a given position. " alt="" coords="715,901,832,928"/>
+<area shape="rect" id="node39" href="$board_8c.html#a97ebf6f6f65c53b49910187180bd5e67" title="Converts the states of the matrix into objects and shows them. " alt="" coords="500,141,599,168"/>
+<area shape="rect" id="node40" href="$board_8c.html#a63852514f51073a5cc620ff3985a6d77" title="Iterates over the boats array and draws the ones wich have 0 hitpoints. " alt="" coords="473,293,626,320"/>
+<area shape="rect" id="node41" href="$player_8c.html#a76c6479b507c3c9c25f6ee0ff216f07c" title="Recieves a player (plr_1) and determines if the shot against the enemy (plr_2) is valid..." alt="" coords="505,749,594,776"/>
+<area shape="rect" id="node43" href="$game_8c.html#a0ecf3df63f0053cd3177ad9dd3716b54" title="displays the end game screen (won) " alt="" coords="509,648,590,675"/>
+<area shape="rect" id="node42" href="$board_8c.html#afca9c6d37276959ed0f884f28060a992" title="Sets the surrounding cells of a boat to &#45;7. " alt="" coords="706,459,841,485"/>
+<area shape="rect" id="node45" href="$timer_8c.html#a97436b6607dec81590187f4729fea5dd" title="get_timer_counter" alt="" coords="938,597,1065,624"/>
+<area shape="rect" id="node47" href="$state__machine_8c.html#a003e7e4a061ada07023f893070d4bb2b" title="State Machine used for simulating a game strategy Generates a random position and then fires on that ..." alt="" coords="482,91,617,117"/>
+<area shape="rect" id="node49" href="$game_8c.html#a428e51196f5847d0e5e50822aa1c9716" title="displays the end game screen (lost) " alt="" coords="496,445,603,472"/>
+<area shape="rect" id="node48" href="$board_8c.html#a8067154f2f1e58f15220943de5571515" title="Receives a position and acerts what cell type has been hit. " alt="" coords="680,91,867,117"/>
+</map>

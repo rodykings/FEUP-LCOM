@@ -1,0 +1,6 @@
+<map id="disable_components" name="disable_components">
+<area shape="rect" id="node2" href="$mouse_8c.html#a6ede28d071933c1edc8c745753d592ea" title="Unsubscribe mouse interrupts. " alt="" coords="207,5,365,32"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#ae2e01c45406a9284d43daa9684fae8dc" title="Unsubscribe keyboard interruption. " alt="" coords="215,56,357,83"/>
+<area shape="rect" id="node5" href="$timer_8c.html#a8aef1401cd2656969d7f8b1ee72dafb9" title="Unsubscribes timer interruptions. " alt="" coords="195,107,377,133"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#adbcbd37b59e476b1872dc37801bc4f15" title="Sends a command to the STAT_REG. " alt="" coords="425,5,551,32"/>
+</map>

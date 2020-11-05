@@ -1,0 +1,26 @@
+<map id="game_round_sp" name="game_round_sp">
+<area shape="rect" id="node2" href="$board_8c.html#a97ebf6f6f65c53b49910187180bd5e67" title="Converts the states of the matrix into objects and shows them. " alt="" coords="195,107,294,133"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#ab0c8b8caefb74f2cf7c79ffb254c4ac4" title="Shows the sprite. " alt="" coords="402,81,491,108"/>
+<area shape="rect" id="node4" href="$graphic_8c.html#a461a83bf6ebfd3b6dc95ca3962858d3d" title="Copies the xmp into the video mem. " alt="" coords="594,119,677,145"/>
+<area shape="rect" id="node7" href="$board_8c.html#a63852514f51073a5cc620ff3985a6d77" title="Iterates over the boats array and draws the ones wich have 0 hitpoints. " alt="" coords="168,5,321,32"/>
+<area shape="rect" id="node8" href="$interrupt__cicle_8c.html#a0718d5c75848a080a2122df6548d2422" title="Receives and handles interruptions from the necessary modules. " alt="" coords="584,321,687,348"/>
+<area shape="rect" id="node17" href="$kbd_8c.html#aabe32d3d3ebb9ccff7ca4b7992f48209" title="Get the scancode. " alt="" coords="967,448,1070,475"/>
+<area shape="rect" id="node18" href="$interrupt__cicle_8c.html#ae96d62d9643ecb59a9a8a7828dfc1860" title="get_int_data" alt="" coords="589,397,682,424"/>
+<area shape="rect" id="node19" href="$graphic_8c.html#a541e181cdbfecf6110d4d4c3ee087c30" title="get_video_mem" alt="" coords="389,208,504,235"/>
+<area shape="rect" id="node20" href="$player_8c.html#a76c6479b507c3c9c25f6ee0ff216f07c" title="Recieves a player (plr_1) and determines if the shot against the enemy (plr_2) is valid..." alt="" coords="200,524,289,551"/>
+<area shape="rect" id="node23" href="$game_8c.html#a0ecf3df63f0053cd3177ad9dd3716b54" title="displays the end game screen (won) " alt="" coords="204,259,285,285"/>
+<area shape="rect" id="node24" href="$game_8c.html#abdd70639378b19cfc929273ef7b4ff45" title="Uses timer interruptions to wait a predetermined time. " alt="" coords="409,309,484,336"/>
+<area shape="rect" id="node5" href="$graphic_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="get_bytes_per_pixel" alt="" coords="949,93,1088,120"/>
+<area shape="rect" id="node6" href="$graphic_8c.html#a90228825151958bdc7dfaffdbbd88494" title="Calculates the color and sets the pixel in the video mem. " alt="" coords="782,119,866,145"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse IH. " alt="" coords="785,321,863,348"/>
+<area shape="rect" id="node11" href="$mouse_8c.html#a4f0a0dc9001ebefef3a416dd9b882b97" title="Initiates the mouse packet member. " alt="" coords="781,423,867,449"/>
+<area shape="rect" id="node12" href="$mouse_8c.html#a2ce59763196c5a8a030a47599b6a160e" title="Get the cnt bytes. " alt="" coords="772,169,876,196"/>
+<area shape="rect" id="node13" href="$kbd_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard IH. " alt="" coords="794,220,854,247"/>
+<area shape="rect" id="node14" href="$timer_8c.html#ac7c3715c83c45c6411f9f3f9f6cf8c7f" title="Timer IH. " alt="" coords="747,271,901,297"/>
+<area shape="rect" id="node15" href="$interrupt__cicle_8c.html#a3cd9db2b8c583d8e97d9865c1a4802a9" title="Initializes the interrupt_data struct tot be used in other files. " alt="" coords="778,372,870,399"/>
+<area shape="rect" id="node10" href="$mouse_8c.html#a4a11876c724ae443363cf5971f1558e7" title="Empties a mouse packet. " alt="" coords="967,321,1071,348"/>
+<area shape="rect" id="node16" href="$mouse_8c.html#a56a5da7f70edb0bb5db9910981ef65f9" title="Get packet struct. " alt="" coords="975,372,1062,399"/>
+<area shape="rect" id="node21" href="$board_8c.html#a94c2c1ad303e2a5b6d5927acad3af174" title="Checks if a sprite has been placed inside the board matrix. " alt="" coords="369,524,524,551"/>
+<area shape="rect" id="node22" href="$board_8c.html#afca9c6d37276959ed0f884f28060a992" title="Sets the surrounding cells of a boat to &#45;7. " alt="" coords="379,575,514,601"/>
+<area shape="rect" id="node25" href="$timer_8c.html#a97436b6607dec81590187f4729fea5dd" title="get_timer_counter" alt="" coords="572,271,699,297"/>
+</map>

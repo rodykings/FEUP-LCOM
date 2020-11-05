@@ -1,0 +1,31 @@
+<map id="game_init_board" name="game_init_board">
+<area shape="rect" id="node2" href="$sprite_8c.html#ab67f095900ba6092fed7f581886f28c6" title="create_sprite" alt="" coords="574,11,671,37"/>
+<area shape="rect" id="node3" href="$board_8c.html#ae77f988d7fd295ac883560b379f2e26d" title="Creates boat objects and loads them into an array. " alt="" coords="185,112,271,139"/>
+<area shape="rect" id="node5" href="$interrupt__cicle_8c.html#a0718d5c75848a080a2122df6548d2422" title="Receives and handles interruptions from the necessary modules. " alt="" coords="177,239,279,265"/>
+<area shape="rect" id="node15" href="$interrupt__cicle_8c.html#ae96d62d9643ecb59a9a8a7828dfc1860" title="get_int_data" alt="" coords="364,441,457,468"/>
+<area shape="rect" id="node16" href="$board_8c.html#a381a21388b9cb70e9bfaf870ac1f7130" title="Iterates over a boat array and shows the boats. " alt="" coords="183,340,273,367"/>
+<area shape="rect" id="node17" href="$sprite_8c.html#ab0c8b8caefb74f2cf7c79ffb254c4ac4" title="Shows the sprite. " alt="" coords="366,391,455,417"/>
+<area shape="rect" id="node21" href="$graphic_8c.html#a541e181cdbfecf6110d4d4c3ee087c30" title="get_video_mem" alt="" coords="171,492,285,519"/>
+<area shape="rect" id="node22" href="$state__machine_8c.html#aa5f2f1b1392cbe33e1401ee41fb7d3ba" title="State Machine used for dragging and droping boats Places boats on the board and updates the atributes..." alt="" coords="171,543,285,569"/>
+<area shape="rect" id="node24" href="$sprite_8c.html#a999c54879ed9502affbd8d65ecfd1b83" title="Checks sprite collision between two sprites. " alt="" coords="547,669,698,696"/>
+<area shape="rect" id="node4" href="$boat_8c.html#a5841281c2167da2f3adcd0f7a1a48a1a" title="Creates a boat object. " alt="" coords="365,36,456,63"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse IH. " alt="" coords="371,239,450,265"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#a4f0a0dc9001ebefef3a416dd9b882b97" title="Initiates the mouse packet member. " alt="" coords="368,289,453,316"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#a2ce59763196c5a8a030a47599b6a160e" title="Get the cnt bytes. " alt="" coords="359,340,463,367"/>
+<area shape="rect" id="node10" href="$kbd_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard IH. " alt="" coords="381,87,441,113"/>
+<area shape="rect" id="node11" href="$timer_8c.html#ac7c3715c83c45c6411f9f3f9f6cf8c7f" title="Timer IH. " alt="" coords="333,137,488,164"/>
+<area shape="rect" id="node12" href="$interrupt__cicle_8c.html#a3cd9db2b8c583d8e97d9865c1a4802a9" title="Initializes the interrupt_data struct tot be used in other files. " alt="" coords="365,188,457,215"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#a4a11876c724ae443363cf5971f1558e7" title="Empties a mouse packet. " alt="" coords="571,239,675,265"/>
+<area shape="rect" id="node13" href="$mouse_8c.html#a56a5da7f70edb0bb5db9910981ef65f9" title="Get packet struct. " alt="" coords="579,137,666,164"/>
+<area shape="rect" id="node14" href="$kbd_8c.html#aabe32d3d3ebb9ccff7ca4b7992f48209" title="Get the scancode. " alt="" coords="571,188,674,215"/>
+<area shape="rect" id="node18" href="$graphic_8c.html#a461a83bf6ebfd3b6dc95ca3962858d3d" title="Copies the xmp into the video mem. " alt="" coords="581,391,664,417"/>
+<area shape="rect" id="node19" href="$graphic_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="get_bytes_per_pixel" alt="" coords="889,391,1028,417"/>
+<area shape="rect" id="node20" href="$graphic_8c.html#a90228825151958bdc7dfaffdbbd88494" title="Calculates the color and sets the pixel in the video mem. " alt="" coords="757,416,841,443"/>
+<area shape="rect" id="node23" href="$board_8c.html#a1e9f126ea93fb3c584c5088151988bef" title="Acerts wich boat has been selected. " alt="" coords="333,644,488,671"/>
+<area shape="rect" id="node25" href="$boat_8c.html#a52cf7f134f8345da0318d72d997063d3" title="Rotates a boat. " alt="" coords="367,492,454,519"/>
+<area shape="rect" id="node26" href="$board_8c.html#ad6e9584e2541e9dac82e24ae2e1f1272" title="Places a boat on the matrix using the sprite If the boat was previously placed on the matrix..." alt="" coords="368,543,453,569"/>
+<area shape="rect" id="node29" href="$board_8c.html#a5cc3d6d9b6f9475ba1cdc66468431694" title="Removes a boat from the board matrix. " alt="" coords="536,593,709,620"/>
+<area shape="rect" id="node27" href="$board_8c.html#a94c2c1ad303e2a5b6d5927acad3af174" title="Checks if a sprite has been placed inside the board matrix. " alt="" coords="545,492,700,519"/>
+<area shape="rect" id="node28" href="$board_8c.html#a3477a1d0ce52ed1ee03810f53bea8b68" title="Checks if the boat can be placed in the given postion of the matrix. " alt="" coords="546,543,699,569"/>
+<area shape="rect" id="node30" href="$board_8c.html#a961d159f91ae9361f28e245e283df6ba" title="Increments (with &#45;1) the surrounding cells of a boat Blocked cells range from &#45;1 to &#45;4..." alt="" coords="551,441,694,468"/>
+</map>
